@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>FITUR LOGIN</h1>
+    <p>Ini adalah deskripsi saya mengenai halaman login</p>
     <form action="">
         <label for="">
             <input type="text" placeholder="Masukkan nama">
